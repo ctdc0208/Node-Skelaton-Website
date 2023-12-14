@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\express-locallibrary-tutorial",
+    "\\express-locallibrary-tutorial\\bin",
+    "\\express-locallibrary-tutorial\\public",
+    "\\express-locallibrary-tutorial\\routes"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\express-locallibrary-tutorial\\routes\\index.js",
   "PreviewInSolutionExplorer": false
 }
