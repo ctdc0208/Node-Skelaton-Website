@@ -14,7 +14,7 @@ var app = express();
 // Set up mongoose connection
 const mongoose = require("mongoose");
 mongoose.set("strictQuery", false);
-const mongoDB = "https://cloud.mongodb.com/v2/656f3333c9d93717ee8cf218#/clusters/detail/AtlasCluster";
+const mongoDB = "mongodb+srv://admin:MrHO0TGqCAAb2RRi@atlascluster.o8zy7ko.mongodb.net/?retryWrites=true&w=majority";
 
 main().catch((err) => console.log(err));
 async function main() {
