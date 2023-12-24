@@ -3,9 +3,11 @@
     "",
     "\\express-locallibrary-tutorial",
     "\\express-locallibrary-tutorial\\bin",
+    "\\express-locallibrary-tutorial\\models",
     "\\express-locallibrary-tutorial\\public",
-    "\\express-locallibrary-tutorial\\routes"
+    "\\express-locallibrary-tutorial\\routes",
+    "\\express-locallibrary-tutorial\\views"
   ],
-  "SelectedNode": "\\express-locallibrary-tutorial\\routes\\index.js",
+  "SelectedNode": "\\express-locallibrary-tutorial\\package-lock.json",
   "PreviewInSolutionExplorer": false
 }
